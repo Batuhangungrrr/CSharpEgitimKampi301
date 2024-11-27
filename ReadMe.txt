@@ -1,47 +1,21 @@
-﻿
-?? Youtube C# Eğtim Kampı
- 
- Dersimizde Sql üzerinden oluşturduğumuz verileri  Form ekranı üzerinde istatistiklerini tutarak güzel bir proje 
- oluşturduk.
+﻿Bu proje, ***ADO.NET*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir seyahat yönetim sistemi uygulamasıdır. </br>
 
+Seyahat yönetim sisteminde kullanılan istatistiksel veriler, ***LINQ*** sorguları ile elde edilmektedir. Proje, turistik lokasyonlar, rehberler ve kapasiteler gibi çeşitli bilgileri yönetmekte ve kullanıcıya zengin istatistiksel veriler sunmaktadır.
 
-   # 🏅 **C# Eğitim Kampı - 301** 🏅  
-Yeni başladığımız bu eğitim kampında, C#'ın **Object-Oriented Programming (OOP)** ve **Multi-Layer Architecture** (Nesne Yönelimli Programlama ve Çok Katmanlı Mimari) yapılarını öğreniyoruz. Konular ilerledikçe zorlaşsa da yeni bilgiler edinmek oldukça keyifli. İleri seviyedeki eğitimleri heyecanla bekliyorum! Eğitim boyunca işlediğimiz konuları bu repoda bulabilir ve ilgili kısa bilgileri aşağıda okuyabilirsiniz.
+Proje kapsamında, veri tabanındaki turistik lokasyonlar, rehberler ve kapasiteler gibi verilerden faydalanarak farklı istatistikler çıkarılmaktadır. Uygulama, kullanıcıların sistemdeki lokasyonlar, rehberler ve turlar hakkında detaylı bilgi sahibi olabilmesini sağlamaktadır. Toplam lokasyon sayısı, Kapadokya turunun kapasitesi, Roma tur rehberi gibi toplam 12 farklı istatistik hesaplanmakta ve listelenmektedir. İstatistikler dinamik olarak güncellenmekte ve kullanıcı dostu bir arayüzle sunulmaktadır.  
 
----
+Bu istatistiklerden bazıları şunlardır:
+- Toplam Lokasyon Sayısı
+- Toplam Kapasite  
+- Rehber Sayısı  
+- Ortalama Kapasite  
+- Ortalama Fiyat
+- Son Eklenen Lokasyon
+- Kapadokya Turu Kapasitesi 
+- Roma Turu Rehberi
 
-## 📜  29.10.2024 - Katmanlı Mimariye Giriş
+Uygulama, kullanıcıların verileri daha iyi analiz edebilmeleri için istatistikleri derleyerek, veri tabanındaki bilgilerin görsel ve anlaşılır bir şekilde sunulmasına olanak tanır. Aşağıda uygulamanın istatistik ekranına ait bir örnek gösterilmektedir:
 
-Bu bölümde **Katmanlı Mimari** (Layered Architecture) yapısına giriş yaptık ve dört temel katman oluşturduk:
+🌱 ***İstatistik Ekranı:*** </br>
 
-### 🗂 Katmanlar
-
-- **Entity Layer**  
-  Veritabanındaki tablolarımıza karşılık gelen sınıfların ve nesnelerin tanımlandığı yerdir.
-
-- **Data Access Layer**  
-  Veritabanı işlemlerinin manipüle edildiği katmandır. Bu katmanda CRUD işlemleri yapılır.
-
-- **Business Layer**  
-  Uygulamanın temel işlevselliği ve iş kurallarını yöneten katmandır. İş mantığını burada yönetiriz.
-
-- **Presentation / UI Layer**  
-  Kullanıcı ile etkileşimin yapıldığı katmandır. (Örneğin, Windows Forms, Web veya Console uygulamaları)
-
-### 🎯 SOLID Prensipleri
-
-Bu yapıyı, **SOLID prensiplerine uygun** şekilde hazırladık ve ileride kullanacağımız **Code First** yaklaşımına göre düzenledik.
-
----
-
-### 📚 Eğitimde İşlenen Konular:
-- Katmanlı Mimariye Giriş ve Katmanların Rolü  
-- Katmanlar Arası Bağımlılık ve SOLID Prensiplerine Uygun Kodlama  
-- Code First Yaklaşımı ile Veritabanı Tasarımı  
-
-Bu repo, eğitim süresince işlenen konuları ve örnek kodları içermektedir. Projede farklı katmanların işlevlerini uygulayarak çok katmanlı mimari yapısının temelini atıyoruz. Eğitimlere katıldıkça dosyayı güncellemeye devam edeceğim.
-
---- 
-
-<img src="https://1drv.ms/i/c/75b598918b071fd7/EUj3CaKHUSBBp1q7ZXxDFBUB-9nCGcdz-CRgu0-QXW1sVg?e=CgJGls" alt="image" width="700"> </br>
-
+<img src="https://github.com/user-attachments/assets/15aa8413-6953-4e62-80af-94c0ff92389b" alt="image" width="700"> </br>
