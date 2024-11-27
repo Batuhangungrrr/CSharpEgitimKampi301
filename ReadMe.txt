@@ -18,4 +18,4 @@ Uygulama, kullanıcıların verileri daha iyi analiz edebilmeleri için istatist
 
 🌱 ***İstatistik Ekranı:*** </br>
 
-<img src="https://github.com/EUj3CaKHUSBBp1q7ZXxDFBUB-9nCGcdz-CRgu0-QXW1sVg?e=T1qTk8" alt="image" width="700"> </br>
+<img src="EUj3CaKHUSBBp1q7ZXxDFBUB-9nCGcdz-CRgu0-QXW1sVg?e=T1qTk8" alt="image" width="700"> </br>
