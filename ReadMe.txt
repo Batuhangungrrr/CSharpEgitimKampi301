@@ -12,6 +12,4 @@ Bu istatistiklerden bazıları şunlardır:
 - Kapadokya Turu Kapasitesi 
 - Roma Turu Rehberi
 
-🌱 ***İstatistik Ekranı:*** </br>
-
-<img src="https://github.com/EUj3CaKHUSBBp1q7ZXxDFBUB-9nCGcdz-CRgu0-QXW1sVg?e=T1qTk8" alt="image" width="700"> </br>
+[Markdown Resim](https://1drv.ms/i/c/75b598918b071fd7/EUj3CaKHUSBBp1q7ZXxDFBUB-9nCGcdz-CRgu0-QXW1sVg?e=s3LFGK)
