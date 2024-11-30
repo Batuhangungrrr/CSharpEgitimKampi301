@@ -1,6 +1,6 @@
-﻿Bu proje, ***ADO.NET*** ve ***Windows Forms*** kullanılarak geliştirilmiş bir seyahat yönetim sistemi uygulamasıdır. </br>
+﻿Bu proje, ADO.NET ve Windows Forms kullanılarak geliştirilmiş bir seyahat yönetim sistemi uygulaması geliştirdik.
 
-Seyahat yönetim sisteminde kullanılan istatistiksel veriler, ***LINQ*** sorguları ile elde edilmektedir. Proje, turistik lokasyonlar, rehberler ve kapasiteler gibi çeşitli bilgileri yönetmekte ve kullanıcıya zengin istatistiksel veriler sunmaktadır.
+Seyahat yönetim sisteminde kullanılan istatistiksel veriler, LINQ sorguları kullanılarak  elde edilmektedir.
 
 Bu istatistiklerden bazıları şunlardır:
 - Toplam Lokasyon Sayısı
