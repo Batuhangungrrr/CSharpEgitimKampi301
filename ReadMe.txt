@@ -12,4 +12,4 @@ Bu istatistiklerden bazıları şunlardır:
 - Kapadokya Turu Kapasitesi 
 - Roma Turu Rehberi
 
-[Markdown Resim](https://1drv.ms/i/c/75b598918b071fd7/EUj3CaKHUSBBp1q7ZXxDFBUB-9nCGcdz-CRgu0-QXW1sVg?e=s3LFGK)
+[![Image](https://i.hizliresim.com/7uqui2j.png)](https://hizliresim.com/7uqui2j)
